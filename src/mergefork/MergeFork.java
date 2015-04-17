@@ -24,6 +24,7 @@ public class MergeFork extends javax.swing.JFrame
         "Collin Fitzgerald",
         "CSIS Student",
         "Brianna Whittaker",
+        "Austin Trapp",
     };
     
     /**
